@@ -1,6 +1,7 @@
 pyyaml
 torch
 torchvision
+tensorflow
 rasa==1.9.5
 gensim
 sentence_transformers
